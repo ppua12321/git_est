@@ -11,5 +11,6 @@ public class gittest {
         System.out.println("i will");
         System.out.println('w');
         System.out.println("abocide");
+        System.out.println("这就是爱");
     }
 }
