@@ -9,5 +9,6 @@ public class gittest {
         System.out.println("hello fuck you!");
         System.out.println('p');
         System.out.println("i will");
+        System.out.println('w');
     }
 }
